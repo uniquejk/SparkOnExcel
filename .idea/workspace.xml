@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a25579b-c7fd-4ac1-a9d1-1078a5005eb2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cn4xJqCyWk37Fo6OPhgBdoiNwH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SparkExcelDemoMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkExcelDemoMain" />
+      <module name="SparkExcelToolsDemoForH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparkExcelDemoMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a25579b-c7fd-4ac1-a9d1-1078a5005eb2" name="Default Changelist" comment="" />
+      <created>1591151268889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591151268889</updated>
+      <workItem from="1591151273206" duration="7849000" />
+      <workItem from="1591170217334" duration="8291000" />
+      <workItem from="1593747266257" duration="2495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591151454080">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state x="360" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1013@0.23.1792.1013" timestamp="1591151454080" />
+    <state x="665" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1591173220575">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state x="665" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1013@0.23.1792.1013" timestamp="1591173220575" />
+    <state x="432" y="153" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1593920848697">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state x="432" y="153" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1792.1013@0.23.1792.1013" timestamp="1593920848697" />
+    <state x="296" y="61" key="CommitChangelistDialog2" timestamp="1593920946290">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state x="296" y="61" key="CommitChangelistDialog2/0.23.1792.1013@0.23.1792.1013" timestamp="1593920946290" />
+    <state width="1717" height="595" key="GridCell.Tab.0.bottom" timestamp="1593747666735">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1717" height="595" key="GridCell.Tab.0.bottom/0.23.1792.1013@0.23.1792.1013" timestamp="1593747666735" />
+    <state width="1717" height="595" key="GridCell.Tab.0.center" timestamp="1593747666734">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1717" height="595" key="GridCell.Tab.0.center/0.23.1792.1013@0.23.1792.1013" timestamp="1593747666734" />
+    <state width="1717" height="595" key="GridCell.Tab.0.left" timestamp="1593747666734">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1717" height="595" key="GridCell.Tab.0.left/0.23.1792.1013@0.23.1792.1013" timestamp="1593747666734" />
+    <state width="1717" height="595" key="GridCell.Tab.0.right" timestamp="1593747666735">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1717" height="595" key="GridCell.Tab.0.right/0.23.1792.1013@0.23.1792.1013" timestamp="1593747666735" />
+    <state x="256" y="23" key="SettingsEditor" timestamp="1593920797504">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state x="256" y="23" key="SettingsEditor/0.23.1792.1013@0.23.1792.1013" timestamp="1593920797504" />
+    <state x="517" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1591170225701">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state x="517" y="323" key="com.intellij.ide.util.TipDialog/0.23.1792.1013@0.23.1792.1013" timestamp="1591170225701" />
+    <state x="477" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1591172940397">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state x="477" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1792.1013@0.23.1792.1013" timestamp="1591172940397" />
+  </component>
+</project>
